@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/danny/opencv_project/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/opencv_project.dir/src/main.cpp.o -c /home/danny/opencv_project/src/main.cpp",
+  "file": "/home/danny/opencv_project/src/main.cpp"
+},
+{
+  "directory": "/home/danny/opencv_project/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/opencv_project.dir/src/second_main.cpp.o -c /home/danny/opencv_project/src/second_main.cpp",
+  "file": "/home/danny/opencv_project/src/second_main.cpp"
+}
+]
